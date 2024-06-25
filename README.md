@@ -1,1 +1,2 @@
-# SnakePosO
+# SnakePos
+An old project which really should have been 3 projects... going to rework this...  a ton...
