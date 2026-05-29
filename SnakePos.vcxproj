@@ -158,6 +158,9 @@
   <ItemGroup>
     <ClCompile Include="SnakePos.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TinyMatrix.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
